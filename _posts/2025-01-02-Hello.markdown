@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Hello"
+date: 2025-01-02 21:25:02 -0500
+categories: Post Me
+---
+
+This is quite obviously my first post, and, my first time using Jekyll. 
+
+{% highlight python %}
+def print_hello_world():
+    print('Hello World')
+{% endhighlight %}
+
+[google.com]: https://google.com
